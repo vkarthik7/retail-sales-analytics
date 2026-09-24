@@ -5,7 +5,7 @@ pipeline through statistical forecasting to an interactive Tableau dashboard.
 The project follows the full analyst workflow: **load → clean → analyze →
 forecast → visualize**.
 
-**Live dashboard:** [View on Tableau Public](https://public.tableau.com/app/profile/karthik.vajja/viz/Reatail_analysis/RetailAnalysis)
+**Live dashboard:** [View on Tableau Public](https://public.tableau.com/app/profile/karthik.vajja/viz/Retail_analysis_17902145466770/RetailAnalysis)
 
 ---
 
